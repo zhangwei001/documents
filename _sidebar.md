@@ -1,4 +1,2 @@
-- ATA
-
-  - ReactHook
-    - [React Hook 最佳实践](/ATA/react/reactHook.md)
+- ReactHook
+  - [React Hook 最佳实践](/doc/react/reactHook.md)

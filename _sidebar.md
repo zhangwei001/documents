@@ -1,2 +1,2 @@
 - ReactHook
-  - [React Hook 最佳实践](/doc/react/reactHook.md)
+  - [React Hook 最佳实践](/docs/react/reactHook.md)
